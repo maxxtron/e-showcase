@@ -1,6 +1,6 @@
-# Next.js Blogs
+# E-Showcase
 
-## Create blog on Next.js (in process)
+## Create internet-shop (in process)
 
 ### Full stack:
 

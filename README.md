@@ -12,11 +12,11 @@
 - bcryptjs
 - Effector
 - Framer-motion
-- jsonwebtoken": "^9.0.2",
+- jsonwebtoken
 - Mongoose
 - Nodemailer
 - React-slick
-- Sass": "^1.69.7",
+- Sass
 - Sharp
 - Slick-carousel
 - Swiper
